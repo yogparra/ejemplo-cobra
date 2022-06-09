@@ -1,0 +1,9 @@
+gitlab02.uchile.cl:443
+openfaas-desa.uchile.cl:443
+172.17.164.18:3306
+nexus3.uchile.cl:8081
+nexus3.uchile.cl:8085
+nexus3.uchile.cl:8087
+sugdesa64.uchile.cl:1521
+orauchdesa01.uchile.cl:1523
+oracle11gdesa.uchile.cl:1521
